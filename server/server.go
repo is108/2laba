@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 	"time"
-	"2lab/protector"
+	"2laba/protector"
 )
 
 type Server struct {
