@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"2lab/client"
-	"2lab/server"
+	"2laba/client"
+	"2laba/server"
 )
 
 func main() {
