@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 	"os"
-	"2lab/protector"
+	"2laba/protector"
 )
 
 type Client struct {
